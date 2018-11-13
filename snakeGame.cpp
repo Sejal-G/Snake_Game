@@ -2,7 +2,6 @@
 #include<conio.h>
 #include<cstdlib>
 #include<windows.h>
-#include<cmaths>
 using namespace std;
 bool gameOver;
 const int width=20;
